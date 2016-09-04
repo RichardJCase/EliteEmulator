@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1470718185 source:c:\users\t76\desktop\8chip\main.cpp
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<glut.h>
+	"chip8.h"
+
+1470638160 c:\users\t76\desktop\8chip\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1470715680 c:\users\t76\desktop\8chip\include\chip8.h
+
+1470715543 source:c:\users\t76\desktop\8chip\src\chip8.cpp
+	"chip8.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
